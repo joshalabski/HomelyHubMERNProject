@@ -1,5 +1,5 @@
 //bookin controller is basically the function behind the booking
-import { Property } from "../Models/propertymodel.js";
+import { Property } from "../Models/propertyModel.js";
 import { Booking } from "../Models/bookingModel.js";
 
 //createorder- booking any property
